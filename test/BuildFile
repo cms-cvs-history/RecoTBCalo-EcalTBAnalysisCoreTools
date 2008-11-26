@@ -2,7 +2,6 @@
 
 <library file=stubs/EcalShowerContainmentAnalyzer.cc name=EcalShowerContainmentAnalyzer>
    <flags EDM_PLUGIN=1>
-   <use name=Foundation/PluginManager>	
    <use name=FWCore/ParameterSet>		
    <use name=DataFormats/DetId>		
    <use name=DataFormats/EcalDetId>
